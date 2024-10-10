@@ -1,6 +1,12 @@
 
 # Protoss AI for StarCraft II
 
+<div align="center">
+	<img width="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
+	<img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="NumPy" title="NumPy"/>
+</div>
+
+![Captura de tela 2024-10-10 191219](https://github.com/user-attachments/assets/c785990e-ac6c-4e08-b827-888d1a80c834)
 
 
 Este projeto é uma IA desenvolvida em **Python** para jogar **StarCraft II** utilizando a raça **Protoss**. A IA foi projetada para vencer um oponente Terran no nível de dificuldade "Hard" usando estratégias otimizadas para expandir a economia e criar forças ofensivas eficazes com **Stalkers** e **Voidrays**.
